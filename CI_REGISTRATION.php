@@ -74,6 +74,8 @@ $this->load->view('register_view',$data);
 }
 }
 
+ 
+ #####backup of another format
 public function backup()
 {
 extract($_POST);
